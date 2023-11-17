@@ -14,8 +14,6 @@ $s = 10;
 $hasil_penjumlahan = rumus_persegi($s);
 echo "Hasil dari luas persegi dengan sisinya adalah $s adalah $hasil_penjumlahan <br>";
 
-
-
 // Membuat class 
 class Rumus_persegi
 {
